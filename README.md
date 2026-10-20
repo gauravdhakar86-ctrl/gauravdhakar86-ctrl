@@ -3,7 +3,7 @@
 <h4 align="center">MCA Student | Aspiring Cloud & Network Engineer</h4>
 
 <p align="center">
-  <a href="https://gauravdhakar-ctrl.github.io/Portfolio/">🌐 Portfolio</a> •
+  <a href="https://gauravdhakar86-ctrl.github.io/Portfolio/">🌐 Portfolio</a> •
   <a href="https://github.com/gauravdhakar86-ctrl">💻 GitHub</a> •
   <a href="https://leetcode.com/u/AURA437/">🧩 LeetCode</a>
 </p>
