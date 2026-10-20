@@ -1,18 +1,46 @@
-# 💫 About Me:
-I am Gaurav Dhakar, an MCA student (AI & Data Science) with an M.Sc. in Mathematics, aspiring Cloud and Network Support Engineer<br>Cloud & Systems : AWS EC2, Linux, SSH/PuTTY, HTTPD/Apache, Target Groups, Elastic Load Balancing<br>Networking : OSI & TCP/IP, IPv4 & Subnetting, DHCP, DNS, Routers & Switches, Telnet<br>Programming : Python (basic), C++ (basic), Machine Learning fundamentals<br>Projects & Labs : EC2 Web Server Deployment, DHCP Configuration, Target Group & Load Balancer Lab<br>Target Roles : Cloud Support Engineer, Network Support Engineer, IT Support Engineer, NOC Engineer Trainee
 
+# Hi, I'm Gaurav Dhakar 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravdhakar_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aura437) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GAURAVDHAKAR01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravdhakar86@gmail.com) 
+### MCA Student | Aspiring Cloud & Network Engineer ☁️🌐
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gauravdhakar86-ctrl &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gauravdhakar86-ctrl &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gauravdhakar86-ctrl &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an MCA student interested in Cloud Computing, Computer
+Networking, AWS, and Software Development.
+
+I enjoy building hands-on projects and learning technologies
+that solve real-world problems.
+
+- 🎓 Pursuing MCA (AI & Data Science)
+- ☁️ Learning AWS and Cloud Administration
+- 🌐 Practicing Networking and Network Configuration
+- 💻 Improving my C++ and Python programming skills
+- 🚀 Building practical projects and documenting my learning
+
+### 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀 Featured Projects
+
+- ☁️ AWS EC2 Web Server Deployment
+- 🌐 Network Topology and Configuration Lab
+- 🔐 Telnet Remote Access Lab
+- 🖥️ Personal Portfolio Website
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravdhakar86-ctrl&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdhakar86-ctrl&layout=compact&theme=tokyonight)
+
+### 🌍 Connect With Me
+
+- 💼 Portfolio: https://gauravdhakar38.netlify.app/
+- 🐙 GitHub: https://github.com/gauravdhakar86-ctrl
 
 ---
-[![](https://komarev.com/ghpvc/?username=gauravdhakar86-ctrl &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ Thanks for visiting my profile!
