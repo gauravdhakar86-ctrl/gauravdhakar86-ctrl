@@ -1,6 +1,6 @@
 
 <h2 align="center">👋 Hi, I'm Gaurav Dhakar</h2>
-<h4 align="center">MCA Student | Aspiring Cloud & Network Engineer</h4>
+<h4 align="center">MCA Student | Aspiring Cloud & Network Engineer ☁️</h4>
 
 <p align="center">
   <a href="https://gauravdhakar86-ctrl.github.io/Portfolio/">🌐 Portfolio</a> •
@@ -9,7 +9,13 @@
 </p>
 
 <p align="center">
-  ☁️ AWS &nbsp; • &nbsp; 🌐 Networking &nbsp; • &nbsp; 💻 C++ &nbsp; • &nbsp; 🐍 Python &nbsp; • &nbsp; 🐧 Linux
+  <a href="https://x.com/GAURAVDHAKAR01">𝕏 X</a> •
+  <a href="https://www.reddit.com/u/Aura437/">👽 Reddit</a> •
+  <a href="https://www.instagram.com/gauravdhakar_/">📸 Instagram</a>
+</p>
+
+<p align="center">
+  ☁️ AWS • 🌐 Networking • 💻 C++ • 🐍 Python • 🐧 Linux
 </p>
 
 ---
@@ -24,7 +30,7 @@ MCA (AI & Data Science) student passionate about AWS Cloud, Linux, Cisco Network
   <img src="https://skillicons.dev/icons?i=aws,linux,cpp,python,git,github" height="32" />
 </p>
 
-**📊 Live GitHub Stats & Languages**
+**📊 GitHub Stats & Languages**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravdhakar86-ctrl&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=tokyonight&hide_border=true" height="115" />
@@ -35,12 +41,11 @@ MCA (AI & Data Science) student passionate about AWS Cloud, Linux, Cisco Network
 
 <p align="center">
   <a href="https://leetcode.com/u/AURA437/">
-    <img src="https://leetcard.jacoblin.cool/AURA437?theme=dark&font=Baloo&ext=contest" height="120" />
+    <img src="https://leetcard.jacoblin.cool/AURA437?theme=dark&ext=contest" height="120" />
   </a>
 </p>
 
 **🔥 Featured Projects**
-
 - ☁️ AWS EC2 Web Server Deployment
 - 🌐 Network Topology & Configuration Lab
 - 🔐 Telnet Remote Access Lab
