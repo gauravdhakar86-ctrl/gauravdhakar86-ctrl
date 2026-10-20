@@ -39,7 +39,7 @@ that solve real-world problems.
 
 ### 🌍 Connect With Me
 
-- 💼 Portfolio: https://gauravdhakar38.netlify.app/
+- 💼 Portfolio: https://gauravdhakar86-ctrl.github.io/Portfolio/
 - 🐙 GitHub: https://github.com/gauravdhakar86-ctrl
 
 ---
