@@ -1,46 +1,34 @@
 
-# Hi, I'm Gaurav Dhakar 👋
+<h1 align="center">Hi 👋, I'm Gaurav Dhakar</h1>
 
-### MCA Student | Aspiring Cloud & Network Engineer ☁️🌐
+<h3 align="center">☁️ Aspiring Cloud & Network Engineer | MCA Student</h3>
 
-I'm an MCA student interested in Cloud Computing, Computer
-Networking, AWS, and Software Development.
-
-I enjoy building hands-on projects and learning technologies
-that solve real-world problems.
-
-- 🎓 Pursuing MCA (AI & Data Science)
-- ☁️ Learning AWS and Cloud Administration
-- 🌐 Practicing Networking and Network Configuration
-- 💻 Improving my C++ and Python programming skills
-- 🚀 Building practical projects and documenting my learning
-
-### 🛠️ Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🚀 Featured Projects
-
-- ☁️ AWS EC2 Web Server Deployment
-- 🌐 Network Topology and Configuration Lab
-- 🔐 Telnet Remote Access Lab
-- 🖥️ Personal Portfolio Website
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravdhakar86-ctrl&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdhakar86-ctrl&layout=compact&theme=tokyonight)
-
-### 🌍 Connect With Me
-
-- 💼 Portfolio: https://gauravdhakar86-ctrl.github.io/Portfolio/
-- 🐙 GitHub: https://github.com/gauravdhakar86-ctrl
+<p align="center">
+  <a href="https://gauravdhakar38.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/gauravdhakar86-ctrl">💻 GitHub</a>
+</p>
 
 ---
-⭐ Thanks for visiting my profile!
+
+### 🚀 About Me
+- 🎓 MCA (AI & Data Science) Student
+- ☁️ Learning AWS, Linux & Cloud Administration
+- 🌐 Practicing Cisco Networking and Network Configuration
+- 💻 Coding in C++ and Python
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,cpp,python,git,github" />
+</p>
+
+### 🔥 Featured Projects
+- ☁️ [AWS EC2 Web Server](https://github.com/gauravdhakar86-ctrl)
+- 🌐 Computer Networking & Topology Labs
+- 💻 [Personal Portfolio](https://gauravdhakar86-ctrl.github.io/Portfolio/)
+
+### 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdhakar86-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="130" />
+</p>
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
